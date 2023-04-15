@@ -1,2 +1,2 @@
-# simpleblog
-A simple blog using python and mongoDB 
+# Simple CLI blog
+A simple CLI blog using python and mongoDB 
